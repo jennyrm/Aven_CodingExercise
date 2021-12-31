@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Aven_CodingExercise
+//  Aven-CodingExercise
 //
-//  Created by Jenny Morales on 12/31/21.
+//  Created by Jenny Morales on 12/17/21.
 //
 
 import UIKit
